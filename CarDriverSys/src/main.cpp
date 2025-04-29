@@ -16,6 +16,10 @@ int main(int argc, char *argv[])
 
     qmlRegisterSingletonType<MusicPlayer>("com.MusicPlayer", 1, 0, "MusicPlayer", musicPlayer_singletontype_provider);
 
+    //qml
+    qmlRegisterSingletonType(QUrl("qrc:/qml/Common/Skin.qml"), "Skin", 1, 0, "Skin");
+    qmlRegisterSingletonType(QUrl("qrc:/qml/Common/Config.qml"), "Config", 1, 0, "Config");
+
     QQmlApplicationEngine engine;
 
     const QUrl url(QStringLiteral("qrc:/qml/main.qml"));

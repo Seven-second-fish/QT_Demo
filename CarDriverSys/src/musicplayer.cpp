@@ -4,3 +4,8 @@ MusicPlayer::MusicPlayer(QObject *parent)
 {
 
 }
+
+MusicPlayer::~MusicPlayer()
+{
+
+}
