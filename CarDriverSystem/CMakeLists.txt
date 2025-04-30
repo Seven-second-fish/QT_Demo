@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.21)
 
 project(CarDriverSystem VERSION 0.1 LANGUAGES CXX)
 
@@ -13,17 +13,9 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
 # 添加子模块
-# add_subdirectory(Modules/System)
-# add_subdirectory(Modules/MusicPlayer)
-# add_subdirectory(Modules/Settings)
-
-message(STATUS "Adding subdirectory for System: ${CMAKE_SOURCE_DIR}/Modules/System")
-add_subdirectory(Modules/System)
-message(STATUS "Adding subdirectory for MusicPlayer: ${CMAKE_SOURCE_DIR}/Modules/MusicPlayer")
+add_subdirectory(Moudules/SystemUI)
 add_subdirectory(Modules/MusicPlayer)
-message(STATUS "Adding subdirectory for Settings: ${CMAKE_SOURCE_DIR}/Modules/Settings")
 add_subdirectory(Modules/Settings)
-
 
 qt_add_executable(appCarDriverSystem
     main.cpp

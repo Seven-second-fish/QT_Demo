@@ -1,16 +1,16 @@
-qt_add_library(SettingsModule)
+qt_add_library(SystemUIModule)
 
-target_sources(SettingsModule
+target_sources(SystemUIModule
     PRIVATE
-        SettingsModel.cpp
+        SystemInfo.cpp
 )
 
-target_link_libraries(SettingsModule
+target_link_libraries(SystemUIModule
     PRIVATE Qt6::Qml Qt6::Core
 )
 
-qt_add_qml_module(SettingsModule
-    URI Settings
-    QML_FILES Settings.qml
+qt_add_qml_module(SystemUIModule
+    URI SystemUI
+    QML_FILES SystemUI.qml
 )
 

@@ -1,0 +1,3 @@
+module MusicPlayer
+qml MusicPlayer.qml
+
