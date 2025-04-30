@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 21,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "linux-x86_64",
+      "hidden": false,
+      "binaryDir": "${sourceDir}/build",
+      "generator": "Ninja",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "Qt6_DIR": "/path/to/Qt6"
+      }
+    }
+  ]
+}
+
