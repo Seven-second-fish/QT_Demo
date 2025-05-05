@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>qml/main.qml</file>
-        <file>qml/Common/Skin.qml</file>
-        <file>qml/Common/Config.qml</file>
-    </qresource>
-</RCC>
