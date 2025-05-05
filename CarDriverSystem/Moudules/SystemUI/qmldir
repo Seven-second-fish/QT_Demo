@@ -1,3 +1,0 @@
-module SystemUI
-qml SystemUI.qml
-
