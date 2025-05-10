@@ -1,0 +1,12 @@
+--bare
+-I
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug
+-I
+D:/Untended/QT/Qt6.6/6.6.3/mingw_64/./qml
+--resource
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_Notepad.qrc
+--resource
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appNotepad_raw_qml_0.qrc
+D:/Document/Demo/Notepad/Main.qml
+D:/Document/Demo/Notepad/NotepadPage.qml
+D:/Document/Demo/Notepad/Toolbar.qml

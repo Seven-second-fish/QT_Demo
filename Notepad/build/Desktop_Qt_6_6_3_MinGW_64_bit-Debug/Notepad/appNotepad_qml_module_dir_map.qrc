@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Notepad">D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Notepad</file>
+
+  </qresource>
+</RCC>

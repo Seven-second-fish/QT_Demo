@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ba1413bcd96e801f0efd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Notepad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-47b2a275133efe2118fe.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-117450d422a7791ca8db.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-341c4e57da0c6ac4e0c1.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c033ad42b301566276bf.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad-Debug-da3ac8c973e948fd25fd.json",
+					"name" : "appNotepad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_autogen-Debug-25f7cdd0d0b2c73e462e.json",
+					"name" : "appNotepad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_autogen_timestamp_deps-Debug-c505b8824bbff06ec362.json",
+					"name" : "appNotepad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_qmlimportscan-Debug-364cd877cded06091b50.json",
+					"name" : "appNotepad_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_qmllint-Debug-56b74910825a71f7e467.json",
+					"name" : "appNotepad_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_qmllint_json-Debug-cdb906cea1c9b255ec85.json",
+					"name" : "appNotepad_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_qmllint_module-Debug-5cf283b9d3a836f5f0ba.json",
+					"name" : "appNotepad_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_qmltyperegistration-Debug-ccf37e429d8e387f0267.json",
+					"name" : "appNotepad_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNotepad_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNotepad_tooling-Debug-ca5a2b2ad2f3373936c6.json",
+					"name" : "appNotepad_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "D:/Document/Demo/Notepad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

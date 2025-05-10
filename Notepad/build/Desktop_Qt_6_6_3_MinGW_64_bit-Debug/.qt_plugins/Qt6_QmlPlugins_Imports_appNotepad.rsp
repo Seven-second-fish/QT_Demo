@@ -1,0 +1,14 @@
+-rootPath
+D:/Document/Demo/Notepad
+-cmake-output
+-output-file
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appNotepad.cmake
+-importPath
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Notepad
+-importPath
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug
+-importPath
+D:/Untended/QT/Qt6.6/6.6.3/mingw_64/./qml
+-qrcFiles
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_Notepad.qrc
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appNotepad_raw_qml_0.qrc

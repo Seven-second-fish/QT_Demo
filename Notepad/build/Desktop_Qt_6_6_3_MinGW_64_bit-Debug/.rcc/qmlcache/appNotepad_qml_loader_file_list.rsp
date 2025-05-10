@@ -1,0 +1,7 @@
+--resource
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_Notepad.qrc
+--resource
+D:/Document/Demo/Notepad/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appNotepad_raw_qml_0.qrc
+/qt/qml/Notepad/Main.qml
+/qt/qml/Notepad/NotepadPage.qml
+/qt/qml/Notepad/Toolbar.qml

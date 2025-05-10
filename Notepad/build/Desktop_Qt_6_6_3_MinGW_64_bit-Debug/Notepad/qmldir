@@ -1,0 +1,7 @@
+module Notepad
+typeinfo appNotepad.qmltypes
+prefer :/qt/qml/Notepad/
+Main 1.0 Main.qml
+NotepadPage 1.0 NotepadPage.qml
+Toolbar 1.0 Toolbar.qml
+
